@@ -1,3 +1,3 @@
-# Prosty system księgowy_magazyn
+# Ledger sklepu (CLI) – konto, magazyn, historia
 
-Opis wkrótce.
+Konsolowy program do rejestrowania **operacji na koncie firmy** i **stanu magazynu**. Wszystko działa w pamięci (po wyjściu dane znikają). 
